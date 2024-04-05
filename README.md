@@ -1,33 +1,30 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=2000&color=000000&background=FFD977&vCenter=true&random=false&width=500&lines=Hi+there%2C+%F0%9F%91%8B)](https://git.io/typing-svg)
-
 ## I'm Nguyen <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
 <p align="center">
-<img alt="loficity" width="600px" src="/assets/banner-gif.gif"</img>
+<img alt="loficity" width="600px" src="/assets/banner-gif.gif">
 </p>
+<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;"><a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/hainguyen1998er/">
-			<img src="/assets/facebook.png" width="30" title="Instagram"></a><a style="margin-left: 10px;"  target="_blank" href="https://www.instagram.com/hainguyen1998er/">
-			<img src="/assets/instagram.png" width="30" title="Instagram"></a></div>
-</p>
-<!-- Portfolio:
+[<img src="/assets/facebook.png" width="30" title="Facebook">](https://www.facebook.com/hainguyen1998er/) &nbsp; [<img src="/assets/instagram.png" width="30" title="Instagram">](https://www.instagram.com/hainguyen1998er/)
+
+![](https://komarev.com/ghpvc/?username=ngpoi1810&color=green)
 
 [View Portfolio]() -->
 
 ![](https://i.imgur.com/waxVImv.png)
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+
 - 🔭 I’m currently working on ... Building NextJS Website Projects
-- 🌱 I’m currently learning ... Typescript, NextJs
-- 📫 How to reach me: ... Just by email or message on social media
-- ⚡ Fun fact: I like playing badminton, trekking, and coding.
+- 🌱 I’m currently learning ... Typescript, NodeJS
+- 📫 How to reach me: ... Just by email or message on social media 
+- ⚡ Fun fact: I like playing soccer, climbing, and coding.
 
 ![](https://i.imgur.com/waxVImv.png)
 
 ### `<Skills />`
+
 <img src="/assets/htmllogo.svg" width="50" title="HTML 5"> &nbsp; <img src="/assets/csslogo.svg" width="50" title="CSS 3"> &nbsp; <img src="/assets/jslogo.svg" width="60" title="JavaScript"> &nbsp; <img src="/assets/es6logo.svg" width="60" title="ES6"> &nbsp;<img src="/assets/tailwind-css.svg" width="60" title="TailwindCSS">&nbsp;<img src="/assets/sass-logo.svg" width="60" title="SASS">&nbsp;<img src="/assets/next-js.svg" width="60" title="Next JS">&nbsp;<img src="/assets/typescript.svg" width="60" title="Typescript JS">&nbsp;<img src="/assets/redux.svg" width="60" title="Redux">&nbsp;
 
 ### Tools:
