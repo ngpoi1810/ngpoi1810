@@ -9,7 +9,6 @@
 
 ![](https://komarev.com/ghpvc/?username=ngpoi1810&color=green)
 
-[View Portfolio]() -->
 
 ![](https://i.imgur.com/waxVImv.png)
 <a target="_blank" align="center">
