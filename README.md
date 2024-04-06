@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on ... Building NextJS Website Projects
 - 🌱 I’m currently learning ... Typescript, NodeJS
 - 📫 How to reach me: ... Just by email or message on social media 
-- ⚡ Fun fact: I like playing soccer, climbing, and coding.
+- ⚡ Fun fact: I like playing badminton, trekking, and coding.
 
 ![](https://i.imgur.com/waxVImv.png)
 
